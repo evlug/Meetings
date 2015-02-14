@@ -1,2 +1,2 @@
 # Meetings
-*** This is our meeting repository ***
+`This is our meeting repository`
